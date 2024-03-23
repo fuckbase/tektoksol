@@ -1,0 +1,44 @@
+Uri: https://tekt.fun/
+File Name: C:\Users\박진호\Desktop\사이트복제\tekt.fun\index.htm
+Content Type: text/html
+
+Uri: https://tekt.fun/index_files/button-follow.png
+File Name: C:\Users\박진호\Desktop\사이트복제\tekt.fun\index_files\button-follow.png
+Content Type: image/png
+
+Uri: https://tekt.fun/index_files/button-telegram.png
+File Name: C:\Users\박진호\Desktop\사이트복제\tekt.fun\index_files\button-telegram.png
+Content Type: image/png
+
+Uri: https://tekt.fun/index_files/gsap.min.js
+File Name: C:\Users\박진호\Desktop\사이트복제\tekt.fun\index_files\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://tekt.fun/index_files/html2canvas.min.js
+File Name: C:\Users\박진호\Desktop\사이트복제\tekt.fun\index_files\html2canvas.min.js
+Content Type: application/javascript
+
+Uri: https://tekt.fun/index_files/js
+File Name: C:\Users\박진호\Desktop\사이트복제\tekt.fun\index_files\js
+Content Type: 
+
+Uri: https://tekt.fun/index_files/lenis.min.js
+File Name: C:\Users\박진호\Desktop\사이트복제\tekt.fun\index_files\lenis.min.js
+Content Type: application/javascript
+
+Uri: https://tekt.fun/index_files/MotionPathPlugin.min.js
+File Name: C:\Users\박진호\Desktop\사이트복제\tekt.fun\index_files\MotionPathPlugin.min.js
+Content Type: application/javascript
+
+Uri: https://tekt.fun/index_files/ScrollTrigger.min.js
+File Name: C:\Users\박진호\Desktop\사이트복제\tekt.fun\index_files\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://tekt.fun/logo.png
+File Name: C:\Users\박진호\Desktop\사이트복제\tekt.fun\logo.png
+Content Type: image/png
+
+Uri: https://tekt.fun/twtr_font.ttf
+File Name: C:\Users\박진호\Desktop\사이트복제\tekt.fun\twtr_font.ttf
+Content Type: font/ttf
+
